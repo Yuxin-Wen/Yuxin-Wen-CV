@@ -46,9 +46,10 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://proceedings.icml.cc/static/paper_files/icml/2020/1057-Paper.pdf'
-- name: appendix
-  url:
-  https://proceedings.icml.cc/static/paper_files/icml/2020/1057-Supplemental.pdf
+# links:
+# - name: appendix
+#   url:
+#   https://proceedings.icml.cc/static/paper_files/icml/2020/1057-Supplemental.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
