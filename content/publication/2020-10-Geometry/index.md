@@ -12,7 +12,7 @@ authors:
 - Kui Jia
 
 # Author notes (optional)
-author_notes:
+author_notes: ""
 
 date: "2020-12-15T00:00:00Z"
 doi: "10.1109/TPAMI.2020.3044712"
