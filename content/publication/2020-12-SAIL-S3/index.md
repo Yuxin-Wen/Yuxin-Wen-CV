@@ -36,7 +36,7 @@ abstract: Shape modeling and reconstruction from raw point clouds of objects sta
 
 # Summary. An optional shortened abstract.
 summary: 
-""
+
 
 tags: [3D reconstruction]
 

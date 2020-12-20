@@ -34,7 +34,6 @@ abstract: The problem of adversarial examples has shown that modern Neural Netwo
 
 # Summary. An optional shortened abstract.
 summary: 
-""
 
 tags: [Adversarial example]
 

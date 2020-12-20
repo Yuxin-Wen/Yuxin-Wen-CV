@@ -36,7 +36,6 @@ abstract: In this paper, we introduce the algorithms of Orthogonal Deep Neural N
 
 # Summary. An optional shortened abstract.
 summary: 
-""
 
 tags: [Generalization]
 
