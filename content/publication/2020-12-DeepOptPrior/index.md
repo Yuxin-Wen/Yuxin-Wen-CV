@@ -34,6 +34,7 @@ abstract: Many learning-based approaches have difficulty scaling to unseen data,
 
 # Summary. An optional shortened abstract.
 summary: 
+""
 
 tags: [3D reconstruction]
 
