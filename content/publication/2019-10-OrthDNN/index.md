@@ -55,9 +55,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-links:
-- name: new/we media Link
-  url:https://posts.careerengine.us/p/5ea18543a42719600f0f43b5
+# links:
+# - name: new/we media Link
+#   url:https://posts.careerengine.us/p/5ea18543a42719600f0f43b5
 
 
 # Featured image

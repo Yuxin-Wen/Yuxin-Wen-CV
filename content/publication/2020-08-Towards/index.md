@@ -56,14 +56,14 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-links:
-- name: slides and video
-  url:
-  https://slideslive.com/38927652/towards-understanding-the-regularization-of-adversarial-robustness-on-neural-networks?ref=search
-links:
-- name: new/we media
-  url:
-  https://www.bilibili.com/video/BV1xD4y127at?from=search&seid=3600122042190491606
+# links:
+# - name: slides and video
+#   url:
+#   https://slideslive.com/38927652/towards-understanding-the-regularization-of-adversarial-robustness-on-neural-networks?ref=search
+# links:
+# - name: new/we media
+#   url:
+#   https://www.bilibili.com/video/BV1xD4y127at?from=search&seid=3600122042190491606
 
 
 # Featured image
