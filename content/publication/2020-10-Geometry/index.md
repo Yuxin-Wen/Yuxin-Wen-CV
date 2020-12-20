@@ -36,7 +36,7 @@ cloud data. However, adversarial results obtained by these methods typically con
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [Adversarial example]
+tags: ["Adversarial example"]
 
 # Display this page in the Featured widget?
 featured: true
