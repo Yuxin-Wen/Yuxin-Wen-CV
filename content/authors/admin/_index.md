@@ -6,7 +6,7 @@ title: Yuxin Wen
 superuser: true
 
 # Role/position/tagline
-role: Ph.D student
+role: Ph.D candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ education:
   courses:
   - course: BSc in Department of Information Engineering (Elite Class)
     institution: South China University of Technology
-    year: 2017
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,9 +52,9 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Yuxin Wen is a Master/Ph.D student in the fourth year of a five-year educational system in Geometric Perception and Intelligence Research (Gorilla) lab, School of Information and Communication Engineering, South China University of Technology (SCUT). His research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on robustness and generalization analysis of deep neural networks, and deep learning shape modeling and reconstruction of objects and scenes.
+Yuxin Wen is a Ph.D candidate in the fourth year of a five-year educational system in Geometric Perception and Intelligence Research (Gorilla) lab, School of Information and Communication Engineering, South China University of Technology (SCUT). His research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on robustness and generalization analysis of deep neural networks, and deep learning shape modeling and reconstruction of objects and scenes.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
