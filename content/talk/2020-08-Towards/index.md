@@ -1,5 +1,5 @@
 ---
-title: Towards Understanding the Regularization of Adversarial Robustness on Neural Networks
+title: Talks for Towards Understanding the Regularization of Adversarial Robustness on Neural Networks
 
 # event: Wowchemy Conference
 # event_url: https://example.org

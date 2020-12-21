@@ -12,9 +12,7 @@ authors:
 - Dacheng Tao
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+author_notes: ""
 
 date: "2019-10-21"
 doi: "10.1109/TPAMI.2019.2948352"

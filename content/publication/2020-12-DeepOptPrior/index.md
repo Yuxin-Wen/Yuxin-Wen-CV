@@ -14,11 +14,11 @@ authors:
 # Author notes (optional)
 author_notes: ""
 
-date: "2020-12-14"
+date: "2020-12-16"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-14"
+publishDate: "2020-12-20"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

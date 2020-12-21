@@ -11,7 +11,7 @@ role: Ph.D student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: South China University of Technology
-  url: https://www.scut-gpi.cn/
+  url: https://www.scut.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on robustness and generalization analysis of deep neural networks, and deep learning shape modeling and reconstruction of objects and scenes.
