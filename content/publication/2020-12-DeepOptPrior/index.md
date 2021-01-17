@@ -46,10 +46,13 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2012.07241.pdf'
+links:
+- name: video
+  url: https://youtu.be/d2xG0GsmPHU
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://nicoleyang61.github.io/Deep-Optimized-Priors/'
 url_slides: ''
 url_source: ''
 url_video: ''
