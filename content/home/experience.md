@@ -30,7 +30,6 @@ experience:
     date_end: '2020-01-01'
     description: Serves for the FDCT Funded project with the State Key Laboratory of Internet of Things for Smart City.
 
-experience:
   - title: Research Assistant 
     company: DexForce
     company_url: 'http://www.dexforce.com/'
