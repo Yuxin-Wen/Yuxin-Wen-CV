@@ -29,4 +29,13 @@ experience:
     date_start: '2019-09-02'
     date_end: '2020-01-01'
     description: Serves for the FDCT Funded project with the State Key Laboratory of Internet of Things for Smart City.
+
+experience:
+  - title: Research Assistant 
+    company: DexForce
+    company_url: 'http://www.dexforce.com/'
+    location: Guangzhou
+    date_start: '2020-05-01'
+    date_end: '2020-08-01'
+    description: Serves as an algorithm engineer for 3D reconstruction and detection.
 ---
