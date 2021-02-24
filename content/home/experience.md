@@ -30,7 +30,7 @@ experience:
     date_end: '2020-01-01'
     description: Serves for the FDCT Funded project with the State Key Laboratory of Internet of Things for Smart City.
 
-  - title: Research Assistant 
+  - title: Research Intern / Student Researcher
     company: DexForce
     company_url: 'http://www.dexforce.com/'
     location: Guangzhou
