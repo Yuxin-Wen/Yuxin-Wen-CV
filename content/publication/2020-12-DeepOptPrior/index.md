@@ -52,7 +52,7 @@ links:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://nicoleyang61.github.io/Deep-Optimized-Priors/'
+url_project: 'https://gorilla-lab-scut.github.io/Deep-Optimized-Priors/'
 url_slides: ''
 url_source: ''
 url_video: ''
