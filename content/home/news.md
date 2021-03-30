@@ -17,14 +17,14 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 # [[item]]  
 #     title: "Internship"
-#     content: "I will be interning at DAMO Academy, working with the City Brain Lab team!"
+#     content: "I will be interning at DAMO Academy, working with the City Brain Lab team! :smile:"
 #     align: "center"
 #     overlay_color: '#555'
 #     overlay_filter: 0.5
 
 [[item]]
     title: "Paper accepted!"
-    content: "Our DeepOptPrior and SAIL-S3 papers are accepted to CVPR 2021!"
+    content: "Our DeepOptPrior and SAIL-S3 papers are accepted to CVPR 2021! :smile:"
     # Choose `center`, `left`, or `right` alignment.
     align: "center"
     # Overlay a color or image (optional).
