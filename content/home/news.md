@@ -27,11 +27,10 @@ height = ""
     # # Call to action button (optional).
     # #   Activate the button by specifying a URL and button label below.
     # #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label = "View DeepOptPrior preview"
+    <!-- cta_label = "View DeepOptPrior preview"
     cta_url = "https://arxiv.org/pdf/2012.07241.pdf"
-
     cta_label = "View SAIL-S3 preview"
-    cta_url = "https://arxiv.org/pdf/2012.07498.pdf"
+    cta_url = "https://arxiv.org/pdf/2012.07498.pdf" -->
 
 [[item]]
     title = "Invited talk"
