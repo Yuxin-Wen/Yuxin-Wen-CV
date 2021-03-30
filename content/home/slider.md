@@ -2,11 +2,11 @@
 # https://wowchemy.com/docs/getting-started/page-builder/#slider
 widget: slider
 headless: true  # This file represents a page section.
+# active: true
 
 # Order that this section appears on the page.
-weight: 15
-
-title: News
+# weight: 15
+# title: News
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -16,14 +16,7 @@ interval: false
 # Specify a height to ensure a consistent height for each slide.
 height: 300px
 
-
 item:
-#   - title: Internship
-#     content: 'I'll be interning at DAMO Academy, working with the City Brain Lab team!'
-#     align: center
-#     overlay_color: '#555'
-#     overlay_img: ''
-#     overlay_filter: 0.5
   - title: Paper accepted!
     content: 'Our DeepOptPrior and SAIL-S3 papers are accepted to CVPR 2021!'
     # Choose `center`, `left`, or `right` alignment.
@@ -46,5 +39,10 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
-    
+#   - title: Internship
+#     content: 'I'll be interning at DAMO Academy, working with the City Brain Lab team!'
+#     align: center
+#     overlay_color: '#555'
+#     overlay_img: ''
+#     overlay_filter: 0.5
 ---
