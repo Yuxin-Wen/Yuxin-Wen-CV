@@ -12,7 +12,9 @@ authors:
 - Kui Jia
 
 # Author notes (optional)
-author_notes: ""
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2020-12-16"
 doi: ""
@@ -48,7 +50,7 @@ featured: false
 url_pdf: 'https://arxiv.org/pdf/2012.07241.pdf'
 links:
 - name: video
-  url: https://youtu.be/d2xG0GsmPHU
+  url: https://youtu.be/h9GkytGnEKs
 url_code: ''
 url_dataset: ''
 url_poster: ''
