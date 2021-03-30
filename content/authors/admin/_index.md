@@ -24,6 +24,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in information and Communication Engineering
+    institution: South China University of Technology
+    year: 2017-now
   - course: BSc in Department of Information Engineering (Elite Class)
     institution: South China University of Technology
     year: 2013-2017
