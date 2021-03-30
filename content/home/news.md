@@ -40,10 +40,10 @@ height = ""
     overlay_color = '#333'
     overlay_filter = 0.5
 
-[[item]]  
+<!-- [[item]]  
     title = "Internship"
     content = "I will be interning at DAMO Academy, working with the City Brain Lab team! :smile:"
     align = "center"
     overlay_color = '#555'
-    overlay_filter = 0.5
+    overlay_filter = 0.5 -->
 +++
