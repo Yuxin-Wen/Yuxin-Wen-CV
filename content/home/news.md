@@ -5,6 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
+title = "News"
+
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 interval = false
