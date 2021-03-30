@@ -37,7 +37,7 @@ height = ""
     title = "Invited talk"
     content = "I am invited by AI-TIME to be giving a talk on 28st Apr. 21:00-21:30 UTC+8"
     align = "center"
-    overlay_color = '#333'
+    overlay_color = "#333"
     overlay_filter = 0.5
 
 <!-- [[item]]  
