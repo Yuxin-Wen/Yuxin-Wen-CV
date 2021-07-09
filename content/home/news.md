@@ -18,10 +18,4 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
-[[item]]  
-    title = "Internship"
-    content = "I will be interning at DAMO Academy, working with the City Brain Lab team! :smile:"
-    align = "center"
-    overlay_color = '#555'
-    overlay_filter = 0.5
 +++
