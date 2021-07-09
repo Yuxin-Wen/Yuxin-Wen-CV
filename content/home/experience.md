@@ -44,5 +44,5 @@ experience:
     location: Shenzhen
     date_start: '2021-06-03'
     date_end: 
-    description: Serves for DAMO Academy Research Internship program, under the supervision by Prof. [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)
+    description: Serves for DAMO Academy Research Internship program, under the supervision by Prof. Lei Zhang.
 ---
