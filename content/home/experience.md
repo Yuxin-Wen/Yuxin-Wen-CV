@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Research Assistant 
+  - title: Research Assistant 
     company: University of Macau
     company_url: ''
     location: Macau
@@ -30,19 +30,19 @@ experience:
     date_end: '2020-01-01'
     description: Serves for the FDCT Funded project with the State Key Laboratory of Internet of Things for Smart City.
 
-- title: Research Intern / Student Researcher
-  company: DexForce
-  company_url: 'http://www.dexforce.com/'
-  location: Guangzhou
-  date_start: '2020-05-01'
-  date_end: '2020-08-01'
-  description: Serves as an algorithm engineer for 3D reconstruction and detection.
+  - title: Research Intern / Student Researcher
+    company: DexForce
+    company_url: 'http://www.dexforce.com/'
+    location: Guangzhou
+    date_start: '2020-05-01'
+    date_end: '2020-08-01'
+    description: Serves as an algorithm engineer for 3D reconstruction and detection.
 
-- title: Research Intern 
-  company: Alibaba DAMO Academy
-  company_url: 'https://damo.alibaba.com/'
-  location: Shenzhen
-  date_start: '2021-06-03'
-  date_end: 
-  description: Serves for DAMO Academy Research Internship program, under the supervision by Prof. Lei Zhang.
+  - title: Research Intern 
+    company: Alibaba DAMO Academy
+    company_url: 'https://damo.alibaba.com/'
+    location: Shenzhen
+    date_start: '2021-06-03'
+    date_end: 
+    description: Serves for DAMO Academy Research Internship program, under the supervision by Prof. Lei Zhang.
 ---
