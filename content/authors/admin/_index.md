@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in information and Communication Engineering
     institution: South China University of Technology
-    year: 2017-now
+    year: 2017-Present
   - course: BSc in Department of Information Engineering (Elite Class)
     institution: South China University of Technology
     year: 2013-2017
