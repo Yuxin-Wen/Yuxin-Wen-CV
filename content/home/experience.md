@@ -59,7 +59,7 @@ experience:
     company_url: 'https://ai.tencent.com/ailab/'
     location: Shenzhen
     date_start: '2022-10-11'
-    date_end: 'now'
+    date_end: ''
     description: Serves as a researcher for digital human animation and modeling.
 
 ---
