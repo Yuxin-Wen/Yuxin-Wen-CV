@@ -6,15 +6,17 @@ title: Yuxin Wen
 superuser: true
 
 # Role/position/tagline
-role: Ph.D candidate
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: South China University of Technology
   url: https://www.scut.edu.cn/en/
+- name: Tencent
+  url: https://www.tencent.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on robustness and generalization analysis of deep neural networks, and deep learning shape modeling and reconstruction of objects and scenes.
+bio: My research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on digital human animation and modeling.
 
 # Interests to show in About widget
 interests:
@@ -26,7 +28,7 @@ education:
   courses:
   - course: PhD in information and Communication Engineering
     institution: South China University of Technology
-    year: 2017-Present
+    year: 2017-2022
   - course: BSc in Department of Information Engineering (Elite Class)
     institution: South China University of Technology
     year: 2013-2017
@@ -58,6 +60,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D candidate in the fourth year of a five-year educational system in [Geometric Perception and Intelligence Research (Gorilla) Lab](https://scut-gpi.cn) @SCUT, under the supervision by Prof. [Kui Jia](http://kuijia.site). My research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on robustness and generalization analysis of deep neural networks, and deep learning shape modeling and reconstruction of objects and scenes.
+I join [Tencent AI Lab](https://ai.tencent.com/ailab/) in 2022, and I am now a Researcher there. In the same year, I received my Ph.D degree from [Geometric Perception and Intelligence Research (Gorilla) Lab](https://scut-gpi.cn) at South China University of Technology (SCUT), under the supervision by Prof. [Kui Jia](http://kuijia.site). My research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on digital human animation and modeling.
+
+Opening position for research interns on computer vision and machine learning at Tencent AI Lab, Shenzhen. Please drop me an email if you are interested.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

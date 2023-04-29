@@ -43,6 +43,23 @@ experience:
     company_url: 'https://damo.alibaba.com/'
     location: Shenzhen
     date_start: '2021-06-03'
-    date_end: 
+    date_end: '2021-10-29'
     description: Serves for DAMO Academy Research Internship program, under the supervision by Prof. [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/).
+
+  - title: Research Intern / Student Researcher
+    company: DexForce
+    company_url: 'http://www.dexforce.com/'
+    location: Shenzhen
+    date_start: '2021-11-01'
+    date_end: '2022-09-30'
+    description: Serves as an algorithm engineer for industrial defect detection.
+
+  - title: Researcher
+    company: Tencent AI Lab
+    company_url: 'https://ai.tencent.com/ailab/'
+    location: Shenzhen
+    date_start: '2022-10-11'
+    date_end: 'now'
+    description: Serves as a researcher for digital human animation and modeling.
+
 ---
