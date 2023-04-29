@@ -10,8 +10,6 @@ role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: South China University of Technology
-  url: https://www.scut.edu.cn/en/
 - name: Tencent
   url: https://www.tencent.com/
 
