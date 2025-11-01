@@ -1,5 +1,5 @@
 ---
-title: "Surface reconstruction from point clouds: A survey and a benchmark"
+title: "Stable-SCore: A stable registration-based framework for 3d shape correspondence"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
