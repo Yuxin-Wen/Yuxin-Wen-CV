@@ -30,13 +30,13 @@ experience:
     date_end: '2020-01-01'
     description: Serves for the FDCT Funded project with the State Key Laboratory of Internet of Things for Smart City.
 
-  - title: Research Intern / Student Researcher
-    company: DexForce
-    company_url: 'http://www.dexforce.com/'
-    location: Guangzhou
-    date_start: '2020-05-01'
-    date_end: '2020-08-01'
-    description: Serves as an algorithm engineer for 3D reconstruction and detection.
+  # - title: Research Intern / Student Researcher
+  #   company: DexForce
+  #   company_url: 'http://www.dexforce.com/'
+  #   location: Guangzhou
+  #   date_start: '2020-05-01'
+  #   date_end: '2020-08-01'
+  #   description: Serves as an algorithm engineer for 3D reconstruction and detection.
 
   - title: Research Intern 
     company: Alibaba DAMO Academy
@@ -55,11 +55,11 @@ experience:
     description: Serves as an algorithm engineer for industrial defect detection.
 
   - title: Researcher
-    company: Tencent AI Lab
-    company_url: 'https://ai.tencent.com/ailab/'
+    company: Tencent
+    company_url: 'https://ai.tencent.com/'
     location: Shenzhen
     date_start: '2022-10-11'
     date_end: ''
-    description: Serves as a researcher for digital human animation and modeling.
+    description: Conducting research in multimodal learning with a specialization in digital human animation.
 
 ---

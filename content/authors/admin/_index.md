@@ -14,7 +14,7 @@ organizations:
   url: https://www.tencent.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on digital human animation and modeling.
+bio: My research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on multimodal learning.
 
 # Interests to show in About widget
 interests:
@@ -58,8 +58,12 @@ email: ""
 highlight_name: true
 ---
 
-I join [Tencent AI Lab](https://ai.tencent.com/ailab/) in 2022, and I am now a Researcher there. In the same year, I received my Ph.D degree from [Geometric Perception and Intelligence Research (Gorilla) Lab](https://scut-gpi.cn) at South China University of Technology (SCUT), under the supervision by Prof. [Kui Jia](http://kuijia.site). My research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on digital human animation and modeling.
+I am a Researcher on the Tencent Hunyuan team, specializing in the animation of 3D digital humans.
 
-Opening position for research interns on computer vision and machine learning at Tencent AI Lab, Shenzhen. Please drop me an email if you are interested.
+I joined Tencent in 2022, initially with Tencent AI Lab. Previously, I earned my Ph.D. from the Gorilla Lab at South China University of Technology (SCUT), advised by Prof. [Kui Jia](http://kuijia.site).
+
+My research interests lie in computer vision, with a focus on non-Euclidean data, and machine learning.
+
+We are seeking motivated research interns for multimodal research at Tencent Hunyuan in Shenzhen. If interested, please send your CV to rexwen@tencent.com.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

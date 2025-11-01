@@ -20,7 +20,7 @@ date: "2022-04-07"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-03-09"
+publishDate: "2024-03-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,7 +35,7 @@ publication_short: TPAMI
 abstract: Reconstruction of a continuous surface of two-dimensional manifold from its raw, discrete point cloud observation is a long-standing problem in computer vision and graphics research. The problem is technically ill-posed, and becomes more difficult considering that various sensing imperfections would appear in the point clouds obtained by practical depth scanning. In literature, a rich set of methods has been proposed, and reviews of existing methods are also provided. However, existing reviews are short of thorough investigations on a common benchmark. The present paper aims to review and benchmark existing methods in the new era of deep learning surface reconstruction. To this end, we contribute a large-scale benchmarking dataset consisting of both synthetic and real-scanned data; the benchmark includes object- and scene-level surfaces and takes into account various sensing imperfections that are commonly encountered in practical depth scanning. We conduct thorough empirical studies by comparing existing methods on the constructed benchmark, and pay special attention on robustness of existing methods against various scanning imperfections; we also study how different methods generalize in terms of reconstructing complex surface shapes. Our studies help identity the best conditions under which different methods work, and suggest some empirical findings. For example, while deep learning methods are increasingly popular in the research community, our systematic studies suggest that, surprisingly, a few classical methods perform even better in terms of both robustness and generalization; our studies also suggest that the practical challenges of misalignment of point sets from multi-view scanning, missing of surface points, and point outliers remain unsolved by all the existing surface reconstruction methods. We expect that the benchmark and our studies would be valuable both for practitioners and as a guidance for new innovations in future research. We make the benchmark publicly accessible at https://Gorilla-Lab-SCUT.github.io/SurfaceReconstructionBenchmark.
 
 # Summary. An optional shortened abstract.
-summary: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Summited, 2023
+summary: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Accepted, 2024
 
 
 tags: ["3D reconstruction"]
