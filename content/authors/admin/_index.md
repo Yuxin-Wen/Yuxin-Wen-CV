@@ -18,9 +18,10 @@ bio: My research interests are in computer vision, computer graphics, and machin
 
 # Interests to show in About widget
 interests:
-- Computer Vision
-- Computer Graphics
-- Machine Learning
+- Multimodal Learning
+- Motion Generation
+- Generative Models
+- 3D Vision
 
 # Education to show in About widget
 education:

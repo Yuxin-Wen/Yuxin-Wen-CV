@@ -34,7 +34,7 @@ abstract: "We present HY-Motion 1.0, a series of state-of-the-art, large-scale, 
 
 
 # Summary. An optional shortened abstract.
-summary: Technical report
+summary: Technical report, 2025
 
 
 tags: ["Motion generation", "Text to Motion"]
