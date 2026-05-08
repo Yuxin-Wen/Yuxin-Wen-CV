@@ -6,7 +6,7 @@ title: Yuxin Wen
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,11 +14,12 @@ organizations:
   url: https://www.tencent.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in computer vision (to non-Euclidean data) and machine learning, with focus on multimodal learning.
+bio: My research interests are in computer vision, computer graphics, and machine learning, with a recent focus on motion generation, 3D digital humans, and 3D generation.
 
 # Interests to show in About widget
 interests:
 - Computer Vision
+- Computer Graphics
 - Machine Learning
 
 # Education to show in About widget
@@ -58,12 +59,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a Researcher on the Tencent Hunyuan team, specializing in the animation of 3D digital humans.
+I am a Senior Researcher on the Tencent Hunyuan team, where my current work focuses on motion generation, 3D digital humans, and 3D generation.
 
 I joined Tencent in 2022, initially with Tencent AI Lab. Previously, I earned my Ph.D. from the Gorilla Lab at South China University of Technology (SCUT), advised by Prof. [Kui Jia](http://kuijia.site).
 
-My research interests lie in computer vision, with a focus on non-Euclidean data, and machine learning.
+My research interests lie in computer vision, computer graphics, and machine learning, with a recent focus on motion generation and 3D digital humans.
 
-We are seeking motivated research interns for multimodal research at Tencent Hunyuan in Shenzhen. If interested, please send your CV to rexwen@tencent.com.
+We are seeking motivated research interns on motion generation and 3D digital humans at Tencent Hunyuan in Shenzhen. If interested, please send your CV to rexwen@tencent.com.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
