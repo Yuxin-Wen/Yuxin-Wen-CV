@@ -54,12 +54,12 @@ experience:
     date_end: '2022-09-30'
     description: Serves as an algorithm engineer for industrial defect detection.
 
-  - title: Researcher
+  - title: Senior Researcher
     company: Tencent
-    company_url: 'https://ai.tencent.com/'
+    company_url: 'https://hunyuan.tencent.com/'
     location: Shenzhen
     date_start: '2022-10-11'
     date_end: ''
-    description: Conducting research in multimodal learning with a specialization in digital human animation.
+    description: Conducting research on motion generation, 3D digital humans, and 3D generation at Tencent Hunyuan.
 
 ---

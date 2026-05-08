@@ -9,3 +9,6 @@ public/
 
 .history
 .DS_Store
+
+# CV LaTeX sources (build artifacts go here; PDF output is published under static/media/)
+/cv/

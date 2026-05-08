@@ -10,8 +10,8 @@ role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Tencent
-  url: https://www.tencent.com/
+- name: Tencent Hunyuan
+  url: https://hunyuan.tencent.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in computer vision, computer graphics, and machine learning, with a recent focus on motion generation, 3D digital humans, and 3D generation.
@@ -50,7 +50,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/CurriculumVitae(YuxinWEN).pdf
+  link: media/CV-YuxinWen-EN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
