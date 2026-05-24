@@ -6,6 +6,7 @@
 public/
 
 .vscode
+.claude
 
 .history
 .DS_Store

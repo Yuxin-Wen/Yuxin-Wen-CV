@@ -14,12 +14,12 @@ organizations:
   url: https://hunyuan.tencent.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in computer vision, computer graphics, and machine learning, with a recent focus on multimodal alignment and motion generation.
+bio: My research interests are in computer vision, computer graphics, and machine learning, with a recent focus on motion generation and multimodal alignment.
 
 # Interests to show in About widget
 interests:
-- Multimodal Learning
 - Motion Generation
+- Multimodal Learning
 - Generative Models
 - 3D Vision
 
@@ -60,12 +60,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a Senior Researcher on the Tencent Hunyuan team, where my current work focuses on multimodal alignment and motion generation.
+I am a Senior Researcher on the Tencent Hunyuan team, where my current work focuses on motion generation and multimodal alignment.
 
 Previously, I earned my Ph.D. in 2022 from the Gorilla Lab at South China University of Technology (SCUT), advised by Prof. [Kui Jia](http://kuijia.site).
 
-My research interests lie in computer vision, computer graphics, and machine learning, with a recent focus on multimodal alignment and motion generation.
+My research interests lie in computer vision, computer graphics, and machine learning, with a recent focus on motion generation and multimodal alignment.
 
-We are seeking motivated research interns on multimodal alignment and motion generation at Tencent Hunyuan in Shenzhen. If interested, please send your CV to rexwen@tencent.com.
+We are seeking motivated research interns on motion generation and multimodal alignment at Tencent Hunyuan in Shenzhen. If interested, please send your CV to rexwen@tencent.com.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

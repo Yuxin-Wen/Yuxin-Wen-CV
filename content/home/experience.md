@@ -61,6 +61,6 @@ experience:
     date_start: '2022-10-11'
     date_end: ''
     description: |
-      Core contributor to research on multimodal alignment and motion generation at Tencent Hunyuan. Lead author of HY-Motion 1.0 — the first billion-parameter text-to-motion foundation model, open-sourced. Earlier at Tencent AI Lab: built production-grade lip-sync, facial-expression, and upper-body motion driving systems for flagship games at Tencent.
+      Core contributor to research on motion generation and multimodal alignment at Tencent Hunyuan. Lead author of HY-Motion 1.0 — the first billion-parameter text-to-motion foundation model. Earlier at Tencent AI Lab: built production-grade lip-sync, facial-expression, and upper-body motion driving systems for flagship games at Tencent.
 
 ---

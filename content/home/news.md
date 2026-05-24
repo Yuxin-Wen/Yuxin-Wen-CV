@@ -38,7 +38,7 @@ height = ""
 
 [[item]]
     title = "Joined Tencent Hunyuan"
-    content = "Started a new chapter at Tencent Hunyuan, focusing on multimodal alignment and motion generation."
+    content = "Started a new chapter at Tencent Hunyuan, focusing on motion generation and multimodal alignment."
     align = "center"
     overlay_color = "#666"
     overlay_filter = 0.5
