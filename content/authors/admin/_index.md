@@ -47,11 +47,10 @@ social:
 
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/CV-YuxinWen-EN.pdf
+# Temporarily hidden; watermarked PDFs still live in static/media/.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/CV-YuxinWen-EN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
